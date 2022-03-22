@@ -1,1 +1,1 @@
-# Boost-Power-Up-Manager-research
+# Boost & Power-Up Manager
